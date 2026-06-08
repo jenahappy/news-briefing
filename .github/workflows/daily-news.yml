@@ -1,0 +1,37 @@
+name: 원주시 새소식 업데이트
+
+on:
+  schedule:
+    # 매일 KST 08:00 = UTC 23:00 (전날)
+    - cron: "0 23 * * *"
+  workflow_dispatch: # 수동 실행 버튼
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 크롤링 실행
+        run: python crawl.py
+
+      - name: index.html 생성
+        run: python build.py
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json index.html
+          git diff --staged --quiet || git commit -m "📰 새소식 업데이트: $(date +'%Y-%m-%d %H:%M KST')"
+          git push
