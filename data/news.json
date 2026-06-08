@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-06-09 08:00:00",
+  "updated_at": "2026-06-09 02:14:29",
   "updated_date": "2026년 06월 09일",
-  "updated_time": "08:00",
+  "updated_time": "02:14",
   "source_url": "https://www.wonju.go.kr/www/selectBbsNttList.do?bbsNo=1&key=211&",
-  "items": []
+  "items": [
+    {
+      "num": "5719",
+      "title": "제28회 새로운 변화, W아카데미 개최 - 미술관에 간 인문학자 : 루브르를 거닐며 인문학을 향유하다",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485283&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5718",
+      "title": "[원주시 도시계획도로 통합건설사업관리용역] 사업수행능력평가서 제출 안내 공고에 따른 질의 회신(3차)",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485240&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5717",
+      "title": "2026년 제15회 원주시 건축위원회（전문위원회） 회의결과（제2026-26, 27, 28호）",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485205&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5716",
+      "title": "강원원주 혁신도시 상생마켓 개최 알림",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485162&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5715",
+      "title": "2026년 농촌자원복합산업화 지원 사업대상자 공모 계획 알림(추가)",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485161&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5714",
+      "title": "[원주시 도시계획도로 통합건설사업관리용역] 사업수행능력평가서 제출 안내 공고에 따른 질의 회신(2차)",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485148&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5713",
+      "title": "2026년 원주삼토페스티벌 부스 신청 안내",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485106&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5712",
+      "title": "생각자람어린이도서관 2026년 「5월 함께자람 부모학교 프로그램」 운영 안내",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485041&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5711",
+      "title": "2026년 주말 가족 참여 프로그램 On The Family​ 5기 수강생 모집",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=485040&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    },
+    {
+      "num": "5710",
+      "title": "원주시 교육발전특구 연계 학부모 대상 인성교육 프로그램 운영",
+      "link": "https://www.wonju.go.kr/./selectBbsNttView.do?key=211&bbsNo=1&nttNo=484998&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode="
+    }
+  ]
 }
